@@ -1,0 +1,220 @@
+* {
+    box-sizing: border-box;
+    padding: 0;
+    margin: 0;
+  }
+  
+  html {
+    background-color: brown;
+  }
+   
+  section {
+    width: 375px;
+    background-color: rgb(255, 255, 255);
+    position: relative;
+  }
+
+  a {
+    text-decoration: none;
+  }
+  
+  .logo {
+    margin-top: -45px;
+    padding-left: 170px;
+  }
+
+  .profile {
+    padding-top: 55px;
+    padding-left: 30px;
+  }
+
+  .notification {
+    padding-left: 330px;
+    margin-top: -83px;
+    margin-bottom: 50px;
+  }
+
+  h4 {
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    color: brown;
+    padding-left: 30px;
+    padding-top: 30px;
+  }
+
+  .lekki {
+    margin-left: -30px;
+  }
+
+  .roommate {
+    padding-left: 188px;
+    margin-top: -48px;
+    color: rgb(222, 85, 85);
+  }
+
+  .brown {
+    padding-left: 55px;
+    margin-top: -30px;
+  }
+
+.images1 {
+    padding-left: 5px;
+    margin-top: 30px;
+}
+
+  .column {
+    float: left;
+    padding: 5px;
+    width: 50%;
+  }
+
+  .categ {
+    margin-bottom: 20px;
+  }
+
+  p {
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    color: brown;
+  }
+
+  h3 {
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+  }
+
+  .proptitle {
+    padding-left: 20px;
+    display: flex;
+  }
+
+  .favourite {
+    padding-left: 200px;
+    padding-top: 5px;
+  }
+
+  .features {
+    display: flex;
+    justify-content: space-around;
+    padding-top: 10px;
+  }
+
+  .water {
+    background-color: brown;
+    border-radius: 20px;
+    width: 150px;
+    height: 35px;
+    padding: 10px;
+  }
+
+  .water p {
+    color: white;
+    font-size: 10px;
+  }
+
+  .toilet {
+    background-color: brown;
+    border-radius: 20px;
+    width: 150px;
+    height: 35px;
+    padding: 10px;
+  }
+
+  .toilet p {
+    color: white;
+    font-size: 10px;
+  }
+
+.more {
+    padding-top: 20px;
+    padding-left: 25px;
+}
+
+  .place {
+    display: flex;
+    padding-bottom: 15px;
+  }
+  
+  .light {
+    display: flex;
+    padding-bottom: 15px;
+  }
+
+  .price {
+    display: flex;
+    padding-bottom: 15px;
+  }
+
+  .icon {
+    padding-right: 10px;
+  }
+
+  .desti {
+    padding-left: 2px;
+    color: black;
+    padding-bottom: 10px;
+  }
+
+  .description {
+    padding-right: 15px;
+    width: 350px;
+  }
+
+  .desc {
+    color: black;
+  }
+
+  .line {
+    padding-top: 20px;
+  }
+
+  button {
+    background-color: brown;
+    color: white;
+    border: none;
+    width: 300px;
+    height: 50px;
+    border-radius: 10px;
+    margin-top: 30px;
+    margin-left: 40px;
+    font-size: 20px;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+  }
+
+  .bottomenu {
+    display: flex;
+    justify-content: space-between;
+    padding-right: 120px;
+    margin-left: 70px;
+    margin-top: -3px;
+  }
+
+  .home {
+    padding: 20px;
+  }
+
+  .first {
+    margin-left: -10px;
+  }
+
+  .chats {
+    padding: 20px;
+    margin-left: 10px;
+    margin-top: -2px;
+  }
+
+  .second {
+    margin-left: -5px;
+  }
+
+  .account {
+    padding: 20px;
+    padding-left: 20px;
+    margin-left: 15px;
+  }
+
+  .third {
+    margin-left: -15px;
+  }
+  
+  .bottom {
+    margin-top: -25px;
+    padding-left: 10px; 
+  }

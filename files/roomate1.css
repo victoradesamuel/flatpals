@@ -1,0 +1,141 @@
+* {
+    box-sizing: border-box;
+    padding: 0;
+    margin: 0;
+  }
+  
+  html {
+    background-color: brown;
+  }
+   
+  section {
+    width: 375px;
+    background-color: rgb(255, 255, 255);
+    position: relative;
+  }
+  
+  a {
+    text-decoration: none;
+  }
+
+  .logo {
+    margin-top: -45px;
+    padding-left: 170px;
+  }
+
+  .profile {
+    padding-top: 55px;
+    padding-left: 30px;
+  }
+
+  .notification {
+    padding-left: 330px;
+    margin-top: -33px;
+    margin-bottom: 50px;
+  }
+
+.room {
+    padding-left: 30px;
+    color: rgb(222, 85, 85);
+    margin-top: -25px;
+  }
+
+.roomate {
+    margin-top: -18px;
+}
+
+  h4 {
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    color: brown;
+    padding-left: 188px;
+  }
+
+  p {
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    color: brown;
+  }
+
+select {
+    width: 310px;
+    height: 40px;
+    margin-left: 30px;
+    margin-top: 10px;
+    border-radius: 5px;
+    margin-bottom: 10px;
+  }
+
+  .select {
+    margin-left: -155px;
+    padding-top: 20px;
+  }
+
+  .container {
+    display: block;
+    position: relative;
+    padding-left: 35px;
+    padding-top: 10px;
+    margin-bottom: 8px;
+    cursor: pointer;
+    font-size: 15px;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+  }
+
+  .checkmark {
+    height: 30px;
+    width: 300px;
+    position: absolute;
+  }
+  
+button {
+    background-color: brown;
+    color: white;
+    border: none;
+    width: 300px;
+    height: 50px;
+    border-radius: 10px;
+    margin-top: 35px;
+    margin-left: 40px;
+    font-size: 20px;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+  }
+
+  .bottomenu {
+    display: flex;
+    justify-content: space-between;
+    padding-right: 120px;
+    margin-left: 70px;
+    margin-top: -3px;
+  }
+
+  .home {
+    padding: 20px;
+  }
+
+  .first {
+    margin-left: -10px;
+  }
+
+  .chats {
+    padding: 20px;
+    margin-left: 10px;
+    margin-top: -2px;
+  }
+
+  .second {
+    margin-left: -5px;
+  }
+
+  .account {
+    padding: 20px;
+    padding-left: 20px;
+    margin-left: 15px;
+  }
+
+  .third {
+    margin-left: -15px;
+  }
+  
+  .bottom {
+    margin-top: -25px;
+    padding-left: 10px; 
+  }

@@ -1,0 +1,257 @@
+* {
+    box-sizing: border-box;
+    padding: 0;
+    margin: 0;
+  }
+  
+  html {
+    background-color: brown;
+  }
+   
+  section {
+    width: 375px;
+    background-color: rgb(255, 255, 255);
+    position: relative;
+  }
+
+  a {
+    text-decoration: none;
+  }
+  
+  .logo {
+    margin-top: -45px;
+    padding-left: 170px;
+  }
+
+  .profile {
+    padding-top: 55px;
+    padding-left: 30px;
+  }
+
+  .notification {
+    padding-left: 330px;
+    margin-top: -83px;
+    margin-bottom: 50px;
+  }
+
+  h4 {
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    color: brown;
+    padding-left: 30px;
+    padding-top: 30px;
+  }
+
+  .lekki {
+    margin-left: -30px;
+  }
+
+  .room {
+    color: rgb(217, 90, 90);
+  }
+
+  .roommate {
+    padding-left: 188px;
+    margin-top: -48px;
+  }
+
+  .brown {
+    padding-left: 55px;
+    margin-top: -30px;
+  }
+
+.images1 {
+    padding-left: 5px;
+    margin-top: -5px;
+}
+
+  .column1 {
+    float: left;
+    padding: 5px;
+    width: 45%;
+    height: 200px;
+    background-color: brown;
+    margin-right: px;
+    margin-left: 15px;
+    padding: 10px;
+    border-radius: 20px;
+    cursor: pointer;
+  }
+
+  .column2 {
+    float: right;
+    padding: 5px;
+    width: 45%;
+    height: 200px;
+    background-color: brown;
+    margin-right: 15px;
+    padding: 10px;
+    border-radius: 20px;
+    cursor: pointer;
+  }
+
+  .name {
+    color: white;
+    margin-left: -30px;
+    margin-top: -25px;
+  }
+
+  .histitle {
+    color: white;
+    font-size: 13px;
+  }
+
+  .namtit {
+    display: flex;
+    margin-top: 20px;
+  }
+
+  .hoe2 {
+    margin-top: 200px;
+  }
+
+.recom3 {
+    padding-left: 23px;
+    font-size: 13px;
+    padding-top: 10px;
+}
+
+  .view {
+    margin-left: 150px;
+    color: blue;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    font-size: 13px;
+    cursor: pointer;
+    margin-top: -40px;
+ }
+
+  .hoe {
+    margin-top: -30px;
+  }
+
+  .recom {
+    color: black;
+    margin-left: -7px;
+  }
+
+  .recom2 {
+    font-size: 13px;
+    padding-left: 20px;
+    padding-top: 10px;
+    margin-bottom: 20px;
+  }
+
+  u {
+    margin-left: -40px;
+    color: blue;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    font-size: 13px;
+    cursor: pointer;
+  }
+
+  .categ {
+    margin-bottom: 20px;
+  }
+
+  p {
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    color: brown;
+  }
+
+  h3 {
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+  }
+
+  .explore {
+    background-color: brown;
+    border-radius: 15px;
+    width: 90%;
+    padding-left: 10px;
+    margin-left: 20px;
+    margin-top: 40px;
+    margin-bottom: -25px;
+    height: 70px;
+    cursor: pointer;
+  }
+
+  .exp {
+    padding-top: 10px;
+  }
+
+  .exp1 {
+    margin-top: -85px;
+    margin-left: 60px;
+  }
+
+  .expname {
+    color: white;
+    margin-left: -30px;
+}
+
+  .expdet {
+    color: white;
+  }
+
+  .view1 {
+    margin-left: 95px;
+    margin-top: -40px;
+    font-size: 10px;
+    color: white;
+  }
+
+  .line {
+    padding-top: 35px;
+  }
+
+  button {
+    background-color: brown;
+    color: white;
+    border: none;
+    width: 300px;
+    height: 50px;
+    border-radius: 10px;
+    margin-top: 30px;
+    margin-left: 40px;
+    font-size: 20px;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+  }
+
+  .bottomenu {
+    display: flex;
+    justify-content: space-between;
+    padding-right: 120px;
+    margin-left: 70px;
+    margin-top: -3px;
+  }
+
+  .home {
+    padding: 20px;
+  }
+
+  .first {
+    margin-left: -10px;
+  }
+
+  .chats {
+    padding: 20px;
+    margin-left: 10px;
+    margin-top: -2px;
+  }
+
+  .second {
+    margin-left: -5px;
+  }
+
+  .account {
+    padding: 20px;
+    padding-left: 20px;
+    margin-left: 15px;
+  }
+
+  .third {
+    margin-left: -15px;
+  }
+  
+  .bottom {
+    margin-top: -25px;
+    padding-left: 10px; 
+  }

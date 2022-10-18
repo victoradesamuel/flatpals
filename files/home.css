@@ -1,0 +1,121 @@
+* {
+    box-sizing: border-box;
+    padding: 0;
+    margin: 0;
+  }
+  
+  html {
+    background-color: brown;
+  }
+   
+  section {
+    width: 375px;
+    background-color: rgb(255, 255, 255);
+    position: relative;
+  }
+
+  a {
+    text-decoration: none;
+  }
+  
+  .logo {
+    margin-top: -45px;
+    padding-left: 170px;
+  }
+
+  .profile {
+    padding-top: 55px;
+    padding-left: 30px;
+  }
+
+  .notification {
+    padding-left: 330px;
+    margin-top: -43px;
+  }
+
+  h4 {
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    color: brown;
+    padding-left: 30px;
+    padding-top: 30px;
+  }
+
+  .roommate {
+    padding-left: 188px;
+    margin-top: -48px;
+    color: rgb(222, 85, 85);
+  }
+
+  .brown {
+    padding-left: 55px;
+    margin-top: -30px;
+  }
+
+  input {
+    height: 40px;
+    width: 300px;
+    border-radius: 5px;
+    margin-left: 35px;
+    padding-left: 20px;
+    margin-top: 20px;
+  }
+
+.images1 {
+    padding-left: 5px;
+}
+
+  .column {
+    float: left;
+    padding: 5px;
+    width: 33.33%;
+  }
+
+  .categ {
+    margin-bottom: 120px;
+  }
+
+  p {
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    color: brown;
+  }
+
+  .bottomenu {
+    display: flex;
+    justify-content: space-between;
+    padding-right: 120px;
+    margin-left: 70px;
+    margin-top: -8px;
+  }
+
+  .home {
+    padding: 20px;
+  }
+
+  .first {
+    margin-left: -10px;
+  }
+
+  .chats {
+    padding: 20px;
+    margin-left: 10px;
+    margin-top: -2px;
+  }
+
+  .second {
+    margin-left: -5px;
+  }
+
+  .account {
+    padding: 20px;
+    padding-left: 20px;
+    margin-left: 15px;
+  }
+
+  .third {
+    margin-left: -15px;
+  }
+  
+  .bottom {
+    margin-top: -25px;
+    padding-left: 10px; 
+  }
